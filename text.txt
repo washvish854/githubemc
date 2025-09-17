@@ -1,1 +1,2 @@
 text connfig on github
+now editing this to see output in vs code by giving git pull
